@@ -12,7 +12,8 @@ public class DemoApplication {
 		System.out.println("Hello world");
 		System.out.println("hi");
 		System.out.println("Shivam ");
-		System.out.println("tomar  ");
+		System.out.println("Shivam tomar");
+		System.out.println("Shivam practice");
 	}
 
 }
