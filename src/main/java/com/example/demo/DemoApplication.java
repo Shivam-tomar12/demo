@@ -13,7 +13,6 @@ public class DemoApplication {
 		System.out.println("hi");
 		System.out.println("Shivam ");
 		System.out.println("tomar  ");
-		System.out.println("tomar ji ");
 	}
 
 }
