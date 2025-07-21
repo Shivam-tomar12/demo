@@ -17,6 +17,12 @@ public class DemoApplication {
 		System.out.println("Shivam tomar");
 		System.out.println("Shivam practice");
 		System.out.println("Shivam test 1");
+		System.out.println("tomar  ");
+
+		System.out.println("tomar  ");
+		System.out.println("tomar  ");
+		System.out.println("tomar  ");
+
 	}
 
 }
